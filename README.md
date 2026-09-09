@@ -11,8 +11,6 @@ The dwts35 package contains relevant data from Season 35 of Dancing with
 the Stars. Users are encouraged to use the dataset for exploration,
 visualization practice, and - most importantly - fun!
 
-This is a test line for GitHub commit.
-
 ## Installation
 
 You can install the development version of dwts35 from
