@@ -1,0 +1,32 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# dwts35
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+The dwts35 package contains relevant data from Season 35 of Dancing with
+the Stars. Users are encouraged to use the dataset for exploration,
+visualization practice, and - most importantly - fun!
+
+## Installation
+
+You can install the development version of dwts35 from
+[GitHub](https://github.com/) with:
+
+``` r
+# install.packages(devtools)
+devtools::install_github("stephensonm22/dwts35")
+```
+
+## Usage
+
+Check out the data like so:
+
+``` r
+library(dwts35)
+library(tibble)
+# tibble::glimpse(dwts35::dwts35_data)
+```

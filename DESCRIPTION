@@ -1,11 +1,12 @@
 Package: dwts35
-Title: What the Package Does (One Line, Title Case)
+Title: Results from Dancing with the Stars Season 35
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Mallory", "Stephenson", , "stephensonm2@vcu.edu", role = c("aut", "cre"))
+Description: Relevant data from Dancing with the Stars Season 35.
+License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
+URL: https://github.com/stephensonm22/dwts35
+BugReports: https://github.com/stephensonm22/dwts35/issues
